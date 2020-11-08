@@ -12,12 +12,12 @@ The purpose of this analysis was to pull and analyze a dataset about product rev
 - Determine if there is any bias toward favorable reviews from Vine members in the dataset
 
 ## Results
-- The dataset that was used in this analysis did not have any Vine reviews, so there did not appear to be any bias in the analysis.
+The dataset that was used in this analysis did not have any Vine reviews, so there did not appear to be any bias in the analysis.
 
--Total Reviews - 380,604
--Total Five Star Reviews - 227,500
--Percentage of Five Star Reviews from Vine reviewers - 0%
--Percentage of Five Star Reviews from Non-Vine reviewers - 100%
+- Total Reviews - 380,604
+- Total Five Star Reviews - 227,500
+- Percentage of Five Star Reviews from Vine reviewers - 0%
+- Percentage of Five Star Reviews from Non-Vine reviewers - 100%
 
 ## Summary
 Due to there being 0 reviews from Vine reviewers in our dataset, it is safe to say there is no bias in the results of our analysis.
